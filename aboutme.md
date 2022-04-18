@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 喜欢折腾、思考的偏执狂
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+曾经的码农，产品经理，网络规划，战略咨询，安全管理，标签太多，总结下来是个斜杠中年
 
 - I rock a great mustache
 - I'm extremely loyal to my family
